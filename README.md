@@ -4,10 +4,8 @@
 手动模式下可以自行调节led亮度，传感器阈值
 自动模式下由光敏电阻调节led亮度
 内部设有rtc实时时钟
-手动模式
-![3421c2447663b9dea11c59772516dadb](https://github.com/user-attachments/assets/85a033d5-f37c-4d5b-a6dc-450219880750)
-自动模式
-![8dff72ec6f1d8a97551029d356211e36](https://github.com/user-attachments/assets/b2cbd064-4ec0-4309-a009-0e663229c24e)
+实物图
+![fd995cdca8f879d3c679d329850ceeb1](https://github.com/user-attachments/assets/47b1292f-221e-461e-bb9b-792d15111f72)
 原理图
 ![SCH_Schematic1_1-P1_2024-11-01](https://github.com/user-attachments/assets/1ec9c102-626b-4aec-8371-7dfe2947b0c6)
 PCB
